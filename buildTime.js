@@ -13,6 +13,11 @@ Details:    Today you are in charge of building the shopping cart logic for a we
            
 */
 
+
+function cartTotal(params) {
+  
+}
+
 const marco = {
   name: "Marco",
   lastName: "Rossi",
