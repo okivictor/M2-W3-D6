@@ -15,7 +15,11 @@ Details:    Today you are in charge of building the shopping cart logic for a we
 
 
 function cartTotal(params) {
-  
+  const prices = [34, 5, 2];
+  const shippingCost = 50;
+  if(isAmbassador === true){
+    price = 
+  }
 }
 
 const marco = {
@@ -38,3 +42,4 @@ const amy = {
 
 const prices = [34, 5, 2];
 const shippingCost = 50;
+
